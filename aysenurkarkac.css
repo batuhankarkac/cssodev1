@@ -1,0 +1,19 @@
+/**************** Av.Ayşenur Karkaç ****************/
+
+body {
+    font-family: "Sofia", sans-serif;
+    background-color:#ffe4c4;
+    text-align: center;
+    background-image: url("/img/lawyer.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-color: #b1b1b1;
+    background-size: cover;
+    background-blend-mode: overlay;
+  }
+header, footer {
+    background-color:#0bc4d1; 
+    list-style-position: inside;
+    word-spacing: 07px;
+  }
